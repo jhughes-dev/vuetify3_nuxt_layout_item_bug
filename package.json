@@ -6,6 +6,8 @@
     "start": "node .output/server/index.mjs"
   },
   "dependencies": {
+    "sass": "^1.49.7",
+    "sass-loader": "^12.4.0",
     "vuetify": "^3.0.0-alpha.0"
   },
   "devDependencies": {
